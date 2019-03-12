@@ -1,0 +1,7 @@
+thriftpy>=0.3.6
+
+[:python_version=="2.7"]
+backports.csv
+
+[snappy support]
+python-snappy

@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+README.rst
+pam.py
+setup.cfg
+setup.py
+python_pam.egg-info/PKG-INFO
+python_pam.egg-info/SOURCES.txt
+python_pam.egg-info/dependency_links.txt
+python_pam.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+registry: "gethue"
+loadBalancerIp: "127.0.0.1"
+domain: "127.0.0.1.nip.io"
+hue:
+  replicas: 1
+  awsAccessKeyId: ""
+  awsSecretAccessKey: ""
+  awsRegion: "us-east-1"
+  prometheusHost: "prometheus-server.prometheus"
+impala:
+  server_host: "impala-coordinator.com"
